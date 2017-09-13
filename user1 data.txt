@@ -1,0 +1,4 @@
+	username 
+example@railstutorial.org
+	password 
+foobar
