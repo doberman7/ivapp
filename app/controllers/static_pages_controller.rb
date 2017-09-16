@@ -11,4 +11,9 @@ class StaticPagesController < ApplicationController
   def contact
 
   end
+  def captivate
+    
+  end
+
+
 end

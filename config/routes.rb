@@ -1,5 +1,8 @@
 
 Rails.application.routes.draw do
+  get  '/captivate',    to: 'static_pages#captivate', as: 'captivate'
+  
+
   get 'sessions/new'
 
   get 'users/new'
